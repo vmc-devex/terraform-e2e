@@ -1,3 +1,4 @@
+Code author: Gilles Chekroun <gchekroun@vmware.com>
 
 ## Variables
 Some variables need to be defined before we start. 
